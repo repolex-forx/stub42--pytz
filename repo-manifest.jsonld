@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/stub42/pytz/commit/e3c6fe223abf0ad1c1c4e40a9bd319a87bb3b829",
       "git:hexsha": "e3c6fe223abf0ad1c1c4e40a9bd319a87bb3b829",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "release_2026.6"
     },
     {
