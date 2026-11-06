@@ -1,0 +1,11 @@
+{
+  "org": "stub42",
+  "repo": "pytz",
+  "versions": [
+    {
+      "commit": "e3c6fe223abf0ad1c1c4e40a9bd319a87bb3b829",
+      "tag": "release_2026.6",
+      "parsed_at": "2026-11-06T03:03:40.754100+00:00"
+    }
+  ]
+}
